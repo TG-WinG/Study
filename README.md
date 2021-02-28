@@ -13,7 +13,7 @@ T.G.WinG 스터디 활동에 많이 참여해주시길 부탁드립니다❤️
 - [Client]: 16강태우 <!-- 추가 예정 -->
 - [Frontend](https://github.com/TG-WinG/frontend): 16신승민, 18이정민  
 - [Backend]: 19황재현 <!-- 추가 예정-->
-- [Machine Learning](https://github.com/TG-WinG/MachineLearning): 19이유제  
+- [Machine Learning](https://github.com/TG-WinG/MachineLearning): 19이유제, 19최성준  
 - [Security](https://github.com/TG-WinG/seKHUrity): 16김성수, 20윤석찬  
 
 *분야 추가 모집 예정...*
