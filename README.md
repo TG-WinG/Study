@@ -8,8 +8,8 @@ T.G.WinG 스터디 활동에 많이 참여해주시길 부탁드립니다❤️
 ## List
 ### [2021-1]
 - [Client] <!-- 추가 예정 -->
-- [Front-End](https://github.com/TG-WinG/frontend)  
-- [Back-End] <!-- 추가 예정-->
+- [Frontend](https://github.com/TG-WinG/frontend)  
+- [Backend] <!-- 추가 예정-->
 - [Machine Learning](https://github.com/TG-WinG/MachineLearning)  
 - [Security](https://github.com/TG-WinG/seKHUrity)  
 
